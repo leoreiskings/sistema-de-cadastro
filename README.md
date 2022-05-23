@@ -1,6 +1,6 @@
 <h1>Sistema de Cadastro de Jogos - com h1 html</h1>
 
-# Cerquilha é o caralho!!!! - usando cerquilha
+# Usando cerquilha
 
 > Status do Projeto: Em desenvolvimento
 
